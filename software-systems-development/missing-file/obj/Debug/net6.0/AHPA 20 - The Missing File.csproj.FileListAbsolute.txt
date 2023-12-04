@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\bin\Debug\net6.0\AHPA 20 - The Missing File.exe
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\bin\Debug\net6.0\AHPA 20 - The Missing File.deps.json
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\bin\Debug\net6.0\AHPA 20 - The Missing File.runtimeconfig.json
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\bin\Debug\net6.0\AHPA 20 - The Missing File.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\bin\Debug\net6.0\AHPA 20 - The Missing File.pdb
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\refint\AHPA 20 - The Missing File.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.pdb
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\AHPA 20 - The Missing File.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 20 - The Missing File\obj\Debug\net6.0\ref\AHPA 20 - The Missing File.dll

@@ -1,0 +1,586 @@
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 441995541378330835457 (21 digits)
+Using B1=157080, B2=6999969668-7245399652, polynomial x^1, x0=3
+Step 1 took 8ms
+Step 2 took 27ms
+********** Factor found in step 2: 441995541378330835457
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 335203548019575991076297 (24 digits)
+Using B1=23, B2=54, polynomial x^1, x0=2
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 335203548019575991076297
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 335203548019575991076297 (24 digits)
+Using B1=31, B2=58766400424189339248-58766400424189339284, polynomial x^1, x0=3
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 335203548019575991076297
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 2050449353925555290706354283 (28 digits)
+Using B1=20, B2=20-1115080, polynomial x^1, x0=1021128692
+Step 1 took 0ms
+Step 2 took 3ms
+********** Factor found in step 2: 30210181
+Found prime factor of 8 digits: 30210181
+Prime cofactor 67872792749091946543 has 20 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 67872792749091946529 (20 digits)
+Using B1=8467, B2=14388568, polynomial x^1, x0=3
+Step 1 took 0ms
+Step 2 took 5ms
+********** Factor found in step 2: 67872792749091946529
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 5735039483399104015346944564789 (31 digits)
+Using B1=1277209, B2=10943320, polynomial x^1, x0=2757596546
+Step 1 took 47ms
+Step 2 took 7ms
+********** Factor found in step 2: 5735039483399104015346944564789
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 620224739362954187513 (21 digits)
+Using B1=668093, B2=65880936, polynomial x^1, x0=3
+Step 1 took 22ms
+Step 2 took 14ms
+********** Factor found in step 2: 620224739362954187513
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 1405929742229533753 (19 digits)
+Using B1=1123483, B2=80553058, polynomial x^1, x0=281247583
+Step 1 took 24ms
+Step 2 took 15ms
+********** Factor found in step 2: 1405929742229533753
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 16811052664235873 (17 digits)
+Using B1=19110, B2=245439412, polynomial x^1, x0=3
+Step 1 took 1ms
+Step 2 took 18ms
+********** Factor found in step 2: 16811052664235873
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 9110965748024759967611 (22 digits)
+Using B1=1193119, B2=342819292, polynomial x^1, x0=2389122988
+Step 1 took 37ms
+Step 2 took 31ms
+********** Factor found in step 2: 9110965748024759967611
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 563796628294674772855559264041716715663 (39 digits)
+Using B1=4031563, B2=18828426, polynomial x^1, x0=979446420
+Step 1 took 185ms
+Step 2 took 6ms
+********** Factor found in step 2: 563796628294674772855559264041716715663
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 563796628294674772855559264041716715663 (39 digits)
+Using B1=67801, B2=14869926, polynomial x^1, x0=1360080877
+Step 1 took 3ms
+Step 2 took 6ms
+********** Factor found in step 2: 563796628294674772855559264041716715663
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 563796628294674772855559264041716715663 (39 digits)
+Using B1=1, B2=28310580, polynomial x^1, x0=2760367603
+Step 1 took 0ms
+Step 2 took 947ms
+********** Factor found in step 2: 563796628294674772855559264041716715663
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 188879386195169498836498369376071664143 (39 digits)
+Using B1=3026227, B2=106793580, polynomial x^1, x0=1566150482
+Step 1 took 106ms
+Step 2 took 12ms
+********** Factor found in step 2: 188879386195169498836498369376071664143
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 474476178924594486566271953891 (30 digits)
+Using B1=9594209, B2=667827522, polynomial x^1, x0=1995295019
+Step 1 took 277ms
+Step 2 took 36ms
+********** Factor found in step 2: 474476178924594486566271953891
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 2124306045220073929294177 (25 digits)
+Using B1=290021, B2=1317259032, polynomial x^1, x0=2669293576
+Step 1 took 10ms
+Step 2 took 62ms
+********** Factor found in step 2: 2124306045220073929294177
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000, B2=39772318, polynomial x^1, x0=2371385665
+Step 1 took 4ms
+Step 2 took 12ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Resuming P-1 residue saved by ernesto@KillerBee with GMP-ECM 7.0.4 on Thu Apr  5 05:40:31 2018 
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000-120557, B2=2468470, polynomial x^1
+Step 1 took 1ms
+Step 2 took 3ms
+********** Factor found in step 2: 25591172394760497166702530699464321
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000, B2=39772318, polynomial x^1, x0=3979834610
+Step 1 took 3ms
+Step 2 took 12ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Resuming P-1 residue 
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000-120557, B2=2468470, polynomial x^1
+Step 1 took 0ms
+Step 2 took 4ms
+********** Factor found in step 2: 25591172394760497166702530699464321
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000, B2=39772318, polynomial x^1, x0=3656841246
+Step 1 took 3ms
+Step 2 took 12ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Resuming P-1 residue saved by ernesto@KillerBee with GMP-ECM 7.0.4 on Thu Apr  5 05:40:31 2018 
+Input number is 25591172394760497166702530699464321 (35 digits)
+Using B1=100000-120557, B2=2468470, polynomial x^1
+Step 1 took 1ms
+Step 2 took 4ms
+********** Factor found in step 2: 25591172394760497166702530699464321
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 504403158265489337 (18 digits)
+Using B1=8, B2=9007199254740678-9007199254740906, polynomial x^1, x0=209486752
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 504403158265489337
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 6857 (4 digits)
+Using B1=840, B2=876, polynomial x^1, x0=3776773463
+Step 1 took 0ms
+Step 2 took 0ms
+********** Factor found in step 2: 6857
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 10090030271*10^400+696212088699 (411 digits)
+Using B1=2000, B2=2352760, polynomial x^1, x0=2282020193
+Step 1 took 2ms
+Step 2 took 37ms
+********** Factor found in step 2: 10090030271
+P =  2, Q =            3  (0.23%)P =  2, Q =            5  (0.45%)P =  2, Q =            7  (0.68%)P =  2, Q =           11  (0.90%)P =  2, Q =           13  (1.13%)P =  2, Q =           31  (1.35%)P =  2, Q =           61  (1.58%)P =  2, Q =           17  (1.80%)P =  2, Q =           19  (2.03%)P =  2, Q =           29  (2.25%)P =  2, Q =           37  (2.48%)P =  2, Q =           41  (2.70%)P =  2, Q =           43  (2.93%)P =  2, Q =           71  (3.15%)P =  2, Q =           73  (3.38%)P =  2, Q =          113  (3.60%)P =  2, Q =          127  (3.83%)P =  2, Q =          181  (4.05%)P =  2, Q =          211  (4.28%)P =  2, Q =          241  (4.50%)P =  2, Q =          281  (4.73%)P =  2, Q =          337  (4.95%)P =  2, Q =          421  (5.18%)P =  2, Q =          631  (5.41%)P =  2, Q =         1009  (5.63%)P =  2, Q =         2521  (5.86%)P =  2, Q =           23  (6.08%)P =  2, Q =           67  (6.31%)P =  2, Q =           89  (6.53%)P =  2, Q =          199  (6.76%)P =  2, Q =          331  (6.98%)P =  2, Q =          397  (7.21%)P =  2, Q =          463  (7.43%)P =  2, Q =          617  (7.66%)P =  2, Q =          661  (7.88%)P =  2, Q =          881  (8.11%)P =  2, Q =          991  (8.33%)P =  2, Q =         1321  (8.56%)P =  2, Q =         2311  (8.78%)P =  2, Q =         3697  (9.01%)P =  2, Q =         4621  (9.23%)P =  2, Q =         9241  (9.46%)P =  2, Q =        18481  (9.68%)P =  2, Q =        55441  (9.91%)P =  2, Q =           53  (10.14%)P =  2, Q =           79  (10.36%)P =  2, Q =          131  (10.59%)P =  2, Q =          157  (10.81%)P =  2, Q =          313  (11.04%)P =  2, Q =          521  (11.26%)P =  2, Q =          547  (11.49%)P =  2, Q =          859  (11.71%)P =  2, Q =          911  (11.94%)P =  2, Q =          937  (12.16%)P =  2, Q =         1093  (12.39%)P =  2, Q =         1171  (12.61%)P =  2, Q =         1873  (12.84%)P =  2, Q =         2003  (13.06%)P =  2, Q =         2341  (13.29%)P =  2, Q =         2731  (13.51%)P =  2, Q =         2861  (13.74%)P =  2, Q =         3121  (13.96%)P =  2, Q =         3433  (14.19%)P =  2, Q =         6007  (14.41%)P =  2, Q =         6553  (14.64%)P =  2, Q =         8009  (14.86%)P =  2, Q =         8191  (15.09%)P =  2, Q =         8581  (15.32%)P =  2, Q =        16381  (15.54%)P =  2, Q =        20021  (15.77%)P =  2, Q =        20593  (15.99%)P =  2, Q =        21841  (16.22%)P =  2, Q =        25741  (16.44%)P =  3, Q =            7  (17.34%)P =  3, Q =           13  (17.79%)P =  3, Q =           31  (18.02%)P =  3, Q =           61  (18.24%)P =  3, Q =           19  (18.69%)P =  3, Q =           37  (19.14%)P =  3, Q =           43  (19.59%)P =  3, Q =           73  (20.05%)P =  3, Q =          127  (20.50%)P =  3, Q =          181  (20.72%)P =  3, Q =          211  (20.95%)P =  3, Q =          241  (21.17%)P =  3, Q =          337  (21.62%)P =  3, Q =          421  (21.85%)P =  3, Q =          631  (22.07%)P =  3, Q =         1009  (22.30%)P =  3, Q =         2521  (22.52%)P =  3, Q =           67  (22.97%)P =  3, Q =          199  (23.42%)P =  3, Q =          331  (23.65%)P =  3, Q =          397  (23.87%)P =  3, Q =          463  (24.10%)P =  3, Q =          661  (24.55%)P =  3, Q =          991  (25.00%)P =  3, Q =         1321  (25.23%)P =  3, Q =         2311  (25.45%)P =  3, Q =         3697  (25.68%)P =  3, Q =         4621  (25.90%)P =  3, Q =         9241  (26.13%)P =  3, Q =        18481  (26.35%)P =  3, Q =        55441  (26.58%)P =  3, Q =           79  (27.03%)P =  3, Q =          157  (27.48%)P =  3, Q =          313  (27.70%)P =  3, Q =          547  (28.15%)P =  3, Q =          859  (28.38%)P =  3, Q =          937  (28.83%)P =  3, Q =         1093  (29.05%)P =  3, Q =         1171  (29.28%)P =  3, Q =         1873  (29.50%)P =  3, Q =         2341  (29.95%)P =  3, Q =         2731  (30.18%)P =  3, Q =         3121  (30.63%)P =  3, Q =         3433  (30.86%)P =  3, Q =         6007  (31.08%)P =  3, Q =         6553  (31.31%)P =  3, Q =         8191  (31.76%)P =  3, Q =         8581  (31.98%)P =  3, Q =        16381  (32.21%)P =  3, Q =        20593  (32.66%)P =  3, Q =        21841  (32.88%)P =  3, Q =        25741  (33.11%)P =  5, Q =           11  (34.23%)P =  5, Q =           31  (34.68%)P =  5, Q =           61  (34.91%)P =  5, Q =           41  (36.04%)P =  5, Q =           71  (36.49%)P =  5, Q =          181  (37.39%)P =  5, Q =          211  (37.61%)P =  5, Q =          241  (37.84%)P =  5, Q =          281  (38.06%)P =  5, Q =          421  (38.51%)P =  5, Q =          631  (38.74%)P =  5, Q =         2521  (39.19%)P =  5, Q =          331  (40.32%)P =  5, Q =          661  (41.22%)P =  5, Q =          881  (41.44%)P =  5, Q =          991  (41.67%)P =  5, Q =         1321  (41.89%)P =  5, Q =         2311  (42.12%)P =  5, Q =         4621  (42.57%)P =  5, Q =         9241  (42.79%)P =  5, Q =        18481  (43.02%)P =  5, Q =        55441  (43.24%)P =  5, Q =          131  (43.92%)P =  5, Q =          521  (44.59%)P =  5, Q =          911  (45.27%)P =  5, Q =         1171  (45.95%)P =  5, Q =         2341  (46.62%)P =  5, Q =         2731  (46.85%)P =  5, Q =         2861  (47.07%)P =  5, Q =         3121  (47.30%)P =  5, Q =         8191  (48.42%)P =  5, Q =         8581  (48.65%)P =  5, Q =        16381  (48.87%)P =  5, Q =        20021  (49.10%)P =  5, Q =        21841  (49.55%)P =  5, Q =        25741  (49.77%)P =  7, Q =           29  (52.25%)P =  7, Q =           43  (52.93%)P =  7, Q =           71  (53.15%)P =  7, Q =          113  (53.60%)P =  7, Q =          127  (53.83%)P =  7, Q =          211  (54.28%)P =  7, Q =          281  (54.73%)P =  7, Q =          337  (54.95%)P =  7, Q =          421  (55.18%)P =  7, Q =          631  (55.41%)P =  7, Q =         1009  (55.63%)P =  7, Q =         2521  (55.86%)P =  7, Q =          463  (57.43%)P =  7, Q =          617  (57.66%)P =  7, Q =         2311  (58.78%)P =  7, Q =         3697  (59.01%)P =  7, Q =         4621  (59.23%)P =  7, Q =         9241  (59.46%)P =  7, Q =        18481  (59.68%)P =  7, Q =        55441  (59.91%)P =  7, Q =          547  (61.49%)P =  7, Q =          911  (61.94%)P =  7, Q =         1093  (62.39%)P =  7, Q =         2003  (63.06%)P =  7, Q =         2731  (63.51%)P =  7, Q =         6007  (64.41%)P =  7, Q =         6553  (64.64%)P =  7, Q =         8009  (64.86%)P =  7, Q =         8191  (65.09%)P =  7, Q =        16381  (65.54%)P =  7, Q =        20021  (65.77%)P =  7, Q =        21841  (66.22%)P = 11, Q =           23  (72.75%)P = 11, Q =           67  (72.97%)P = 11, Q =           89  (73.20%)P = 11, Q =          199  (73.42%)P = 11, Q =          331  (73.65%)P = 11, Q =          397  (73.87%)P = 11, Q =          463  (74.10%)P = 11, Q =          617  (74.32%)P = 11, Q =          661  (74.55%)P = 11, Q =          881  (74.77%)P = 11, Q =          991  (75.00%)P = 11, Q =         1321  (75.23%)P = 11, Q =         2311  (75.45%)P = 11, Q =         3697  (75.68%)P = 11, Q =         4621  (75.90%)P = 11, Q =         9241  (76.13%)P = 11, Q =        18481  (76.35%)P = 11, Q =        55441  (76.58%)P = 11, Q =          859  (78.38%)P = 11, Q =         2003  (79.73%)P = 11, Q =         2861  (80.41%)P = 11, Q =         3433  (80.86%)P = 11, Q =         6007  (81.08%)P = 11, Q =         8009  (81.53%)P = 11, Q =         8581  (81.98%)P = 11, Q =        20021  (82.43%)P = 11, Q =        20593  (82.66%)P = 11, Q =        25741  (83.11%)P = 13, Q =           53  (93.47%)P = 13, Q =           79  (93.69%)P = 13, Q =          131  (93.92%)P = 13, Q =          157  (94.14%)P = 13, Q =          313  (94.37%)P = 13, Q =          521  (94.59%)P = 13, Q =          547  (94.82%)P = 13, Q =          859  (95.05%)P = 13, Q =          911  (95.27%)P = 13, Q =          937  (95.50%)P = 13, Q =         1093  (95.72%)P = 13, Q =         1171  (95.95%)P = 13, Q =         1873  (96.17%)P = 13, Q =         2003  (96.40%)P = 13, Q =         2341  (96.62%)P = 13, Q =         2731  (96.85%)P = 13, Q =         2861  (97.07%)P = 13, Q =         3121  (97.30%)P = 13, Q =         3433  (97.52%)P = 13, Q =         6007  (97.75%)P = 13, Q =         6553  (97.97%)P = 13, Q =         8009  (98.20%)P = 13, Q =         8191  (98.42%)P = 13, Q =         8581  (98.65%)P = 13, Q =        16381  (98.87%)P = 13, Q =        20021  (99.10%)P = 13, Q =        20593  (99.32%)P = 13, Q =        21841  (99.55%)P = 13, Q =        25741  (99.77%)Found prime factor of 11 digits: 10090030271
+Prime cofactor (10090030271*10^400+696212088699)/10090030271 has 401 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 2^(64*2)-1 (39 digits)
+Using B1=2, B2=0, polynomial x^1, x0=340282366920938463463374607431768211454
+Step 1 took 0ms
+********** Factor found in step 1: 340282366920938463463374607431768211455
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 234^997+997^234 (2363 digits)
+Using B1=100, B2=492, polynomial x^1, x0=1352203780
+Step 1 took 2ms
+Step 2 took 117ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 2^(2^12)+1 (1234 digits)
+Using B1=1000000, B2=1748900148, polynomial x^1, x0=1881724742
+Step 1 took 2372ms
+********** Factor found in step 1: 36204694129087842739610650509313
+Found composite factor of 32 digits: 36204694129087842739610650509313
+Composite cofactor (2^(2^12)+1)/36204694129087842739610650509313 has 1202 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 12345678 (8 digits)
+********** Factor found in step 1: 2
+Found prime factor of 1 digits: 2
+Composite cofactor 6172839 has 7 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 95209938255048826235189575712705128366296557149606415206280987204268594538412191641776798249266895999715600261737863698825644292938050707507901970225804581 (155 digits)
+Error: cannot choose suitable P value for your stage 2 parameters.
+Try a shorter B2min,B2 interval.
+Please report internal errors at <ecm-discuss@lists.gforge.inria.fr>.
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 95209938255048826235189575712705128366296557149606415206280987204268594538412191641776798249266895999715600261737863698825644292938050707507901970225804581 (155 digits)
+Using mpz_mod
+NTT can handle lmax <= 4096
+Parameters for NTT: P=1155, l=1024
+non-NTT can handle lmax <= 626
+pm1fs2_memory_use: Estimated memory use with lmax = 1024 NTT is 245920 bytes
+Using lmax = 1024 with NTT which takes about 0MB of memory
+Using B1=5000, B2=9972-1260528, polynomial x^1, x0=3288065341
+P = 1155, l = 1024, s_1 = 480, k = s_2 = 1, m_1 = 3
+Can't compute success probabilities for B1 <> B2min
+Exponent has 7211 bits
+Using mpres_ui_pow, base 3288065341
+Step 1 took 1ms
+x=37809276054414873676351086785135012873381498832724383590848766787210391585739444746851300461337174250071777406512916622653326323711446491573336707508858164
+mpzspm_init: finding 19 primes took 1ms
+mpzspm_init took 1ms
+CRT modulus for evaluation = 4611686018427366401 * 4611686018427365377 * 4611686018427322369 * 4611686018427289601 * 4611686018427286529 * 4611686018427277313 * 4611686018427246593 * 4611686018427228161 * 4611686018427227137 * 4611686018427215873 * 4611686018427199489 * 4611686018427185153 * 4611686018427156481 * 4611686018427136001 * 4611686018427048961 * 4611686018427045889 * 4611686018427013121 * 4611686018426991617 * 4611686018426979329, has 19 primes, 1178.000000 bits
+S_1 = {-385, 385} + {-231, 231} + {-462, 462} + {-330, 330} + {-315, 315} + {-165, 0, 165} + {-210, -105, 0, 105, 210}
+S_2 = {0}
+mpzspm_init: finding 19 primes took 0ms
+mpzspm_init took 1ms
+CRT modulus for building F = 4611686018427379201 * 4611686018427375361 * 4611686018427372289 * 4611686018427365377 * 4611686018427352321 * 4611686018427336193 * 4611686018427326977 * 4611686018427322369 * 4611686018427321601 * 4611686018427318529 * 4611686018427296257 * 4611686018427292417 * 4611686018427246337 * 4611686018427244033 * 4611686018427227137 * 4611686018427226369 * 4611686018427217153 * 4611686018427199489 * 4611686018427194881, has 19 primes, 1178.000000 bits
+Computing F from factored S_1 (processing set of size 2 5 3 2 2 2 2) took 4ms
+Computing h took 0ms
+Computing DCT-I of h took 1ms
+Multi-point evaluation 1 of 1:
+Computing g_i
+pm1_sequence_g: P = 1155, M_param = 783, l_param = 1024, m_1 = 3, k_2 = 0
+ took 1ms
+Computing g*h took 1ms
+Computing gcd of coefficients and N took 1ms
+Product of R[i] = 90639177468060579199060109253353541733231400903839741290111421559138772858952559060227420467235953570273397381432889061381288186508241285880146543006188192
+Step 2 took 9ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 95209938255048826235189575712705128366296557149606415206280987204268594538412191641776798249266895999715600261737863698825644292938050707507901970225804581 (155 digits)
+Using mpz_mod
+non-NTT can handle lmax <= 626
+Parameters for non-NTT: P=1995, l=469
+pm1fs2_memory_use: Estimated memory use with lmax = 469 is 784752 bytes
+Using lmax = 469 without NTT which takes about 0MB of memory
+Using B1=5000, B2=9320-1008130, polynomial x^1, x0=693913140
+P = 1995, l = 469, s_1 = 216, k = s_2 = 4, m_1 = 1
+Can't compute success probabilities for B1 <> B2min
+Exponent has 7211 bits
+Using mpres_ui_pow, base 693913140
+Step 1 took 1ms
+x=29956855924323673978051204986604681072976310625040424770221359698825956035123015386281196045876742487878245516316611720701355356831737301346714059923004150
+S_1 = {-798, 798} + {-570, 570} + {-525, 525} + {-285, 0, 285} + {-105, 0, 105} + {-315, 0, 315}
+S_2 = {-1064, -266, 266, 1064}
+tmplen = 1875
+Computing F from factored S_1 (processing set of size 2 3 3 3 2 2) took 2ms
+Computing h took 0ms
+Multi-point evaluation 1 of 4:
+Computing g_i
+pm1_sequence_g: P = 1995, M_param = 360, l_param = 469, m_1 = 1, k_2 = 18446744073709550552
+ took 1ms
+TMulGen of g and h took 2ms
+Computing product of F(g_i) took 0ms
+Product of R[i] = 38949162962603543117501714387943984678864198724835158805156643336265235330879589418303830351214321894930723789380629434260115704332178735746272532065337431
+Multi-point evaluation 2 of 4:
+Computing g_i
+pm1_sequence_g: P = 1995, M_param = 360, l_param = 469, m_1 = 1, k_2 = 18446744073709551350
+ took 0ms
+TMulGen of g and h took 2ms
+Computing product of F(g_i) took 0ms
+Product of R[i] = 49231640573872624791149834116134159048016454742687165652448488110907715795437201385374903309446522099824420623528190687570445941866631200854974310067790382
+Multi-point evaluation 3 of 4:
+Computing g_i
+pm1_sequence_g: P = 1995, M_param = 360, l_param = 469, m_1 = 1, k_2 = 266
+ took 0ms
+TMulGen of g and h took 2ms
+Computing product of F(g_i) took 1ms
+Product of R[i] = 37553146701161385143941576156545350698201764469779884470964450010047003080205137951217638138700825345486276902551486574697879573982950151815525920028220538
+Multi-point evaluation 4 of 4:
+Computing g_i
+pm1_sequence_g: P = 1995, M_param = 360, l_param = 469, m_1 = 1, k_2 = 1064
+ took 0ms
+TMulGen of g and h took 2ms
+Computing product of F(g_i) took 0ms
+Product of R[i] = 11817371332851586534321151814358587798068044921840641985423310510605565473552196322613004476657410107266590677280489103487622284421383455241680353679314614
+Step 2 took 12ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 95209938255048826235189575712705128366296557149606415206280987204268594538412191641776798249266895999715600261737863698825644292938050707507901970225804581 (155 digits)
+Using mpz_mod
+Using lmax = 4096 with NTT which takes about 0MB of memory
+Using B1=100000, B2=39772318, polynomial x^1, x0=2543304603
+P = 9555, l = 4096, s_1 = 2016, k = s_2 = 2, m_1 = 3
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.14	0.02	0.0019	0.00013	6.9e-06	3e-07	1.1e-08	3.3e-10	7.9e-12	0
+Step 1 took 24ms
+Computing F from factored S_1 took 12ms
+Computing h took 2ms
+Computing DCT-I of h took 1ms
+Multi-point evaluation 1 of 2:
+Computing g_i took 6ms
+Computing g*h took 5ms
+Computing gcd of coefficients and N took 2ms
+Multi-point evaluation 2 of 2:
+Computing g_i took 6ms
+Computing g*h took 4ms
+Computing gcd of coefficients and N took 2ms
+Step 2 took 43ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 33852066257429811148979390609187539760850944806763555795340084882048986912482949506591909041130651770779842162499482875755533111808276172876211496409325473343590723224081353129229935527059488811457730702694849036693756201766866018562295004353153066430367 (254 digits)
+Using mpz_mod
+Using lmax = 1024 with NTT which takes about 0MB of memory
+Using B1=19999, B2=2368720, polynomial x^1, x0=1198721310
+P = 1995, l = 1024, s_1 = 432, k = s_2 = 2, m_1 = 3
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.014	0.0008	3.2e-05	9.2e-07	2e-08	3.6e-10	2.9e-12	0	0	0
+Step 1 took 10ms
+Computing F from factored S_1 took 6ms
+Computing h took 0ms
+Computing DCT-I of h took 1ms
+Multi-point evaluation 1 of 2:
+Computing g_i took 3ms
+Computing g*h took 1ms
+Computing gcd of coefficients and N took 1ms
+Multi-point evaluation 2 of 2:
+Computing g_i took 2ms
+Computing g*h took 2ms
+Computing gcd of coefficients and N took 1ms
+Step 2 took 19ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 33852066257429811148979390609187539760850944806763555795340084882048986912482949506591909041130651770779842162499482875755533111808276172876211496409325473343590723224081353129229935527059488811457730702694849036693756201766866018562295004353153066430367 (254 digits)
+Using mpz_mod
+Using lmax = 4096 with NTT which takes about 1MB of memory
+Using B1=100000, B2=39772318, polynomial x^1, x0=235401042
+P = 9555, l = 4096, s_1 = 2016, k = s_2 = 2, m_1 = 3
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.055	0.0063	0.00051	3.1e-05	1.5e-06	5.9e-08	1.9e-09	5.7e-11	0	0
+Step 1 took 50ms
+Computing F from factored S_1 took 20ms
+Computing h took 4ms
+Computing DCT-I of h took 3ms
+Multi-point evaluation 1 of 2:
+Computing g_i took 11ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 4ms
+Multi-point evaluation 2 of 2:
+Computing g_i took 11ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 3ms
+Step 2 took 74ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 33852066257429811148979390609187539760850944806763555795340084882048986912482949506591909041130651770779842162499482875755533111808276172876211496409325473343590723224081353129229935527059488811457730702694849036693756201766866018562295004353153066430367 (254 digits)
+Using mpz_mod
+Using lmax = 4096 with NTT which takes about 1MB of memory
+Using B1=100000, B2=39772318, polynomial x^1, x0=796475643
+P = 9555, l = 4096, s_1 = 2016, k = s_2 = 2, m_1 = 3
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.055	0.0063	0.00051	3.1e-05	1.5e-06	5.9e-08	1.9e-09	5.7e-11	0	0
+Step 1 took 48ms
+x=22683808465343905815129541646057491665348638867795840652234598092390499661749222227803351032202406038105483212569837099903205235180959477323457466637560016921114142758900554510773309551698910996213740017119550335851218084274993258072512719494854477756768
+Computing F from factored S_1 took 21ms
+Computing h took 3ms
+Computing DCT-I of h took 3ms
+Multi-point evaluation 1 of 2:
+Computing g_i took 11ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 3ms
+Product of R[i] = 32151144707663808388269148888227556857297595925937068142988204839391374970409838993979342389796784559437804183655475160311999643519398490945421140764336985696979655122066413861520832785289946800613942890037544281119109317832398455042147010843898178835033
+Multi-point evaluation 2 of 2:
+Computing g_i took 12ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 3ms
+Product of R[i] = 6268718661309169243939318544074539035221204745662018945745647213500267010772454273463690862238216815115407478008078142251564320670236386059297473330755336906634163248675039599899848086125605592314816921683607340863920325045684353955434789424222159043921
+Step 2 took 74ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 33852066257429811148979390609187539760850944806763555795340084882048986912482949506591909041130651770779842162499482875755533111808276172876211496409325473343590723224081353129229935527059488811457730702694849036693756201766866018562295004353153066430367 (254 digits)
+Using mpz_mod
+NTT can handle lmax <= 536870912
+Parameters for NTT: P=9555, l=4096
+Parameters for non-NTT: P=12705, l=2561
+pm1fs2_memory_use: Estimated memory use with lmax = 4096 NTT is 1523960 bytes
+Using lmax = 4096 with NTT which takes about 1MB of memory
+Using B1=100000, B2=39772318, polynomial x^1, x0=3453118586
+P = 9555, l = 4096, s_1 = 2016, k = s_2 = 2, m_1 = 3
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.055	0.0063	0.00051	3.1e-05	1.5e-06	5.9e-08	1.9e-09	5.7e-11	0	0
+Exponent has 144344 bits
+Using mpres_ui_pow, base 3453118586
+Step 1 took 48ms
+x=16111438581510043395314670900140618132443352703639814688557244574676108475362030218674668624716831116598191181954085373345254774036279896964296931925362268635323326922465597069834652169245737542216008817648058688995465215009240527896638111348824573144856
+mpzspm_init: finding 30 primes took 3ms
+mpzspm_init took 3ms
+CRT modulus for evaluation = 4611686018427322369 * 4611686018427289601 * 4611686018427277313 * 4611686018427228161 * 4611686018427215873 * 4611686018427199489 * 4611686018426953729 * 4611686018426933249 * 4611686018426884097 * 4611686018426687489 * 4611686018426658817 * 4611686018426454017 * 4611686018426294273 * 4611686018426265601 * 4611686018426257409 * 4611686018426232833 * 4611686018426032129 * 4611686018425921537 * 4611686018425901057 * 4611686018425815041 * 4611686018425753601 * 4611686018425741313 * 4611686018425737217 * 4611686018425630721 * 4611686018425581569 * 4611686018425540609 * 4611686018425430017 * 4611686018425171969 * 4611686018425085953 * 4611686018424975361, has 30 primes, 1860.000000 bits
+S_1 = {-1911, 1911} + {-3822, 3822} + {-390, 390} + {-735, 735} + {-1470, 1470} + {-195, 0, 195} + {-5880, 0, 5880} + {-4095, -2730, -1365, 0, 1365, 2730, 4095}
+S_2 = {-3185, 3185}
+mpzspm_init: finding 30 primes took 2ms
+mpzspm_init took 2ms
+CRT modulus for building F = 4611686018427365377 * 4611686018427322369 * 4611686018427227137 * 4611686018427199489 * 4611686018427156481 * 4611686018427048961 * 4611686018427045889 * 4611686018426956801 * 4611686018426953729 * 4611686018426876929 * 4611686018426852353 * 4611686018426833921 * 4611686018426800129 * 4611686018426784769 * 4611686018426689537 * 4611686018426680321 * 4611686018426658817 * 4611686018426649601 * 4611686018426606593 * 4611686018426529793 * 4611686018426360833 * 4611686018426268673 * 4611686018426265601 * 4611686018426237953 * 4611686018426115073 * 4611686018426096641 * 4611686018426065921 * 4611686018426032129 * 4611686018425989121 * 4611686018425961473, has 30 primes, 1860.000000 bits
+Computing F from factored S_1 (processing set of size 2 7 3 3 2 2 2 2) took 21ms
+Computing h took 4ms
+Computing DCT-I of h took 3ms
+Multi-point evaluation 1 of 2:
+Computing g_i
+pm1_sequence_g: P = 9555, M_param = 3087, l_param = 4096, m_1 = 3, k_2 = 18446744073709548431
+ took 12ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 4ms
+Product of R[i] = 31251128885411094715540205448917282865487382313466367640156778357772712999980882880986694028432273050196643222913266765926321820138356909258990790532583547748970456712314768855983399077820647560908216580344664939192228303406894895590921603397332411575698
+Multi-point evaluation 2 of 2:
+Computing g_i
+pm1_sequence_g: P = 9555, M_param = 3087, l_param = 4096, m_1 = 3, k_2 = 3185
+ took 11ms
+Computing g*h took 7ms
+Computing gcd of coefficients and N took 5ms
+Product of R[i] = 5925307317386799352998876074027002570076460297030244877081585506192210839174764057429635121617794558073260396868933247917469239466124491024095877538150582241005775941993272113279961036277324908479302882694789077734118947440857625966962599370548472918030
+Step 2 took 77ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Tuned for x86_64/core2/params.h
+Running on KillerBee
+Input number is 33852066257429811148979390609187539760850944806763555795340084882048986912482949506591909041130651770779842162499482875755533111808276172876211496409325473343590723224081353129229935527059488811457730702694849036693756201766866018562295004353153066430367 (254 digits)
+Using mpz_mod
+Parameters for non-NTT: P=12705, l=2561
+pm1fs2_memory_use: Estimated memory use with lmax = 2561 is 6207360 bytes
+Using lmax = 2561 without NTT which takes about 5MB of memory
+Using B1=100000, B2=31550128, polynomial x^1, x0=3649812921
+P = 12705, l = 2561, s_1 = 1320, k = s_2 = 4, m_1 = 2
+Probability of finding a factor of n digits:
+20	25	30	35	40	45	50	55	60	65
+0.053	0.006	0.00048	2.9e-05	1.4e-06	5.5e-08	1.8e-09	5.3e-11	0	0
+Exponent has 144344 bits
+Using mpres_ui_pow, base 3649812921
+Step 1 took 50ms
+x=3925538534563655837210645104767562017621823881325740993254883962520253935700964821760087312112061716941302808019541723861593858952315221371381899949856989352632747862817962730399246397885140412871386959504099998829204146437593569785339767401587412805075
+S_1 = {-5082, 5082} + {-3630, 3630} + {-315, 315} + {-1815, 0, 1815} + {-210, -105, 0, 105, 210} + {-5775, -4620, -3465, -2310, -1155, 0, 1155, 2310, 3465, 4620, 5775}
+S_2 = {-6776, -1694, 1694, 6776}
+tmplen = 10243
+Computing F from factored S_1 (processing set of size 2 11 5 3 2 2) took 21ms
+Computing h took 1ms
+Multi-point evaluation 1 of 4:
+Computing g_i
+pm1_sequence_g: P = 12705, M_param = 1900, l_param = 2561, m_1 = 2, k_2 = 18446744073709544840
+ took 3ms
+TMulGen of g and h took 14ms
+Computing product of F(g_i) took 1ms
+Product of R[i] = 25628609673892263525387109463892040168902290260671264104355299982085187512971865142970395778399143894518778916851533287489909701773447897365564798247384567798482562217111096015790899529438098024251529048876393617658692273342030439413681712206191180203733
+Multi-point evaluation 2 of 4:
+Computing g_i
+pm1_sequence_g: P = 12705, M_param = 1900, l_param = 2561, m_1 = 2, k_2 = 18446744073709549922
+ took 4ms
+TMulGen of g and h took 12ms
+Computing product of F(g_i) took 1ms
+Product of R[i] = 12582078717429237876159424499946313589699717725870919121199319338510104022838786737129735496750988280302180536396641591261509665176590708690737279596826968141184259879925156779805584632854229804126369680319938591090864061076315493767612909001665571491739
+Multi-point evaluation 3 of 4:
+Computing g_i
+pm1_sequence_g: P = 12705, M_param = 1900, l_param = 2561, m_1 = 2, k_2 = 1694
+ took 3ms
+TMulGen of g and h took 13ms
+Computing product of F(g_i) took 1ms
+Product of R[i] = 3214338319002638499386332217885488829889393945046384668966453163933809239789781702946124166953547383404758464551054738460810111543140544375555701834778336756570290731905839082752215124074945357076549206364363639520448154712839217200297829472272959338442
+Multi-point evaluation 4 of 4:
+Computing g_i
+pm1_sequence_g: P = 12705, M_param = 1900, l_param = 2561, m_1 = 2, k_2 = 6776
+ took 4ms
+TMulGen of g and h took 12ms
+Computing product of F(g_i) took 1ms
+Product of R[i] = 30806924997419929171192059125738850125207071617627411161961662752763897259647313550489724296376581540065219834884724289203930357813267878794324163658910809008235491192543139325449504001485915526631130271764020770319690888659007447514937428521283179116701
+Step 2 took 93ms
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 2^1009-1 (304 digits)
+Using B1=1000, B2=17248, polynomial x^1, x0=4266152667
+Step 1 took 0ms
+Step 2 took 4ms
+********** Factor found in step 2: 3454817
+Found prime factor of 7 digits: 3454817
+Composite cofactor (2^1009-1)/3454817 has 298 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is (2^1009-1)/3454817 (298 digits)
+Using B1=5000, B2=9972-1389888, polynomial x^1, x0=1119814898
+Step 1 took 3ms
+Step 2 took 18ms
+********** Factor found in step 2: 198582684439
+Found prime factor of 12 digits: 198582684439
+Composite cofactor ((2^1009-1)/3454817)/198582684439 has 286 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is (2^1049-1)/33569/459463 (306 digits)
+Using B1=1049, B2=31672468, polynomial x^1, x0=968199416
+Step 1 took 0ms
+Step 2 took 79ms
+********** Factor found in step 2: 1059099980653317121
+Found prime factor of 19 digits: 1059099980653317121
+Prime cofactor ((2^1049-1)/33569/459463)/1059099980653317121 has 288 digits
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 1000033 (7 digits)
+Using B1=32, B2=1432, polynomial x^1, x0=1989265299
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 1000033
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 10001801 (8 digits)
+Using B1=43, B2=1432, polynomial x^1, x0=2116122817
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 10001801
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 100002943 (9 digits)
+Using B1=23, B2=1432, polynomial x^1, x0=4093360792
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 100002943
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 1000020313 (10 digits)
+Using B1=37, B2=1432, polynomial x^1, x0=1640015374
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 1000020313
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 10000026037 (11 digits)
+Using B1=49, B2=1432, polynomial x^1, x0=728877542
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 10000026037
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 100000003897 (12 digits)
+Using B1=787, B2=1296, polynomial x^1, x0=844510875
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 100000003897
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 1000000671451 (13 digits)
+Using B1=757, B2=1296, polynomial x^1, x0=3258394593
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 1000000671451
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 10000000097557 (14 digits)
+Using B1=761, B2=1296, polynomial x^1, x0=1283232812
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 10000000097557
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 100000002915569 (15 digits)
+Using B1=1361, B2=1890, polynomial x^1, x0=1610345583
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 100000002915569
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 1000000001405311 (16 digits)
+Using B1=1373, B2=1890, polynomial x^1, x0=2252066455
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 1000000001405311
+Found input number N
+GMP-ECM 7.0.4 [configured with GMP 6.1.2, --enable-asm-redc] [P-1]
+Input number is 10000000003317199 (17 digits)
+Using B1=2269, B2=2808, polynomial x^1, x0=2153652397
+Step 1 took 0ms
+Step 2 took 1ms
+********** Factor found in step 2: 10000000003317199
+Found input number N
+All P-1 tests are ok.
+PASS test.pm1 (exit status: 0)

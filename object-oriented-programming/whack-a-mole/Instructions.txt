@@ -1,0 +1,2 @@
+Use the WASD keys to move the hammer.
+Use the Spacebar to hit a mole.

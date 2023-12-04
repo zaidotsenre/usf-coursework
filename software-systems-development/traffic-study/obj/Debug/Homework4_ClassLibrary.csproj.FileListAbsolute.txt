@@ -1,0 +1,2 @@
+C:\Users\Ernesto\Downloads\Homework 4 - Traffic Study\obj\Debug\Homework4_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Downloads\Homework 4 - Traffic Study\obj\Debug\Homework4_ClassLibrary.csproj.CoreCompileInputs.cache

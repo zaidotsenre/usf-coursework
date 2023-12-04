@@ -1,0 +1,18 @@
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\Homework 3  - The Chatterbox Light System.exe
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\Homework 3  - The Chatterbox Light System.deps.json
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\Homework 3  - The Chatterbox Light System.runtimeconfig.json
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\Homework 3  - The Chatterbox Light System.dll
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\Homework 3  - The Chatterbox Light System.pdb
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\SmarterStoplight_ClassLibrary.dll
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\bin\Debug\net6.0\SmarterStoplight_ClassLibrary.pdb
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.csproj.CopyComplete
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.dll
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\refint\Homework 3  - The Chatterbox Light System.dll
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.pdb
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\Homework 3  - The Chatterbox Light System.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\Homework 3  - The Chatterbox Light System\Homework 3  - The Chatterbox Light System\obj\Debug\net6.0\ref\Homework 3  - The Chatterbox Light System.dll

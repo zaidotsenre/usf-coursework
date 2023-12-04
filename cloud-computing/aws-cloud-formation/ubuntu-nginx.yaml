@@ -1,0 +1,52 @@
+AWSTemplateFormatVersion: 2010-09-09
+Resources:
+  WebserverInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-08c40ec9ead489470
+      InstanceType: t2.micro
+      KeyName: 
+        Ref: KeyPairParameter
+      Tags:
+        - Key: Name
+          Value: Ubuntu Nginx Server
+      SecurityGroupIds:
+        - !Ref WebserverSecurityGroup
+      UserData:
+          'Fn::Base64': |
+            #!/bin/bash
+
+            sudo apt update
+            sudo apt install -y nginx
+
+            cd /var/www/html
+            echo "<h1>Ernesto Diaz</h1><title>Ernesto Diaz</title>" >  index.html
+            curl http://169.254.169.254/latest/meta-data/public-hostname >> index.html
+            echo "<br>" >> index.html
+            curl http://169.254.169.254/latest/meta-data/placement/region >> index.html
+  WebserverSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: SSH only from USF. HTTP from everywhere.
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 0.0.0.0/0
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 
+            Ref: CidrIpParameter
+Parameters:
+  KeyPairParameter:
+    Type: AWS::EC2::KeyPair::KeyName
+    Description: Name of the key pair to use for SSH access.
+  CidrIpParameter:
+    Type: String
+    Description: CIDR block for SSH access. Defaults to USF CIDR block.
+    Default: 131.247.0.0/32
+Outputs:
+  URL:
+    Description: URL of the created website
+    Value: !Sub http://${WebserverInstance.PublicIp}

@@ -1,0 +1,15 @@
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\bin\Debug\net6.0\AHPA 22 - State Data.exe
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\bin\Debug\net6.0\AHPA 22 - State Data.deps.json
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\bin\Debug\net6.0\AHPA 22 - State Data.runtimeconfig.json
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\bin\Debug\net6.0\AHPA 22 - State Data.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\bin\Debug\net6.0\AHPA 22 - State Data.pdb
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\refint\AHPA 22 - State Data.dll
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.pdb
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\AHPA 22 - State Data.genruntimeconfig.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 22 - State Data\obj\Debug\net6.0\ref\AHPA 22 - State Data.dll

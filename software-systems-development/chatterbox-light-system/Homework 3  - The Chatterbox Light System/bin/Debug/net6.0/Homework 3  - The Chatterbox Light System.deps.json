@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homework 3  - The Chatterbox Light System/1.0.0": {
+        "dependencies": {
+          "SmarterStoplight_ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Homework 3  - The Chatterbox Light System.dll": {}
+        }
+      },
+      "SmarterStoplight_ClassLibrary/1.0.0": {
+        "runtime": {
+          "SmarterStoplight_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework 3  - The Chatterbox Light System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmarterStoplight_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

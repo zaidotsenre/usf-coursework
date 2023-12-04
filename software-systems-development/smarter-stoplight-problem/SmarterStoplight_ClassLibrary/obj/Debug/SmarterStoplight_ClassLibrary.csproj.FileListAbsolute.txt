@@ -1,0 +1,6 @@
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\bin\Debug\SmarterStoplight_ClassLibrary.dll
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\bin\Debug\SmarterStoplight_ClassLibrary.pdb
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\obj\Debug\SmarterStoplight_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\obj\Debug\SmarterStoplight_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\obj\Debug\SmarterStoplight_ClassLibrary.dll
+C:\Users\Ernesto\source\repos\SmarterStoplight\SmarterStoplight_ClassLibrary\obj\Debug\SmarterStoplight_ClassLibrary.pdb

@@ -1,0 +1,101 @@
+﻿<Window x:Class="SmarterStoplight_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmarterStoplight_GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="8*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition>                    </RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Canvas x:Name="northRedBulb" Background="Gray" Grid.Row="0" Margin="5"></Canvas>
+                <Canvas x:Name="northYellowBulb" Background="Gray" Grid.Row="1" Margin="5"></Canvas>
+                <Canvas x:Name="northGreenBulb" Background="Gray" Grid.Row="2" Margin="5"></Canvas>
+            </Grid>
+
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Canvas x:Name="southRedBulb" Background="Gray" Grid.Row="0" Margin="5"></Canvas>
+                <Canvas x:Name="southYellowBulb" Background="Gray" Grid.Row="1" Margin="5"></Canvas>
+                <Canvas x:Name="southGreenBulb" Background="Gray" Grid.Row="2" Margin="5"></Canvas>
+            </Grid>
+
+            <Grid Grid.Column="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Canvas x:Name="eastRedBulb" Background="Gray" Grid.Row="0" Margin="5"></Canvas>
+                <Canvas x:Name="eastYellowBulb" Background="Gray" Grid.Row="1" Margin="5"></Canvas>
+                <Canvas x:Name="eastGreenBulb" Background="Gray" Grid.Row="2" Margin="5"></Canvas>
+            </Grid>
+
+            <Grid Grid.Column="6">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Canvas x:Name="westRedBulb" Background="Gray" Grid.Row="0" Margin="5"></Canvas>
+                <Canvas x:Name="westYellowBulb" Background="Gray" Grid.Row="1" Margin="5"></Canvas>
+                <Canvas x:Name="westGreenBulb" Background="Gray" Grid.Row="2" Margin="5"></Canvas>
+            </Grid>
+
+            <Label Grid.Column="0" Grid.Row="1" Content="North" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"></Label>
+            <Label Grid.Column="2" Grid.Row="1" Content="South" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"></Label>
+            <Label Grid.Column="4" Grid.Row="1" Content="East" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"></Label>
+            <Label Grid.Column="6" Grid.Row="1" Content="West" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15"></Label>
+            
+        </Grid>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label x:Name="timerLBL" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"></Label>
+
+            <Button x:Name="startEmergencyBtn" IsEnabled="True" Click="StartEmergency"  Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Start Emergency"></Button>
+            <Button x:Name="stopEmergencyBtn" IsEnabled="False" Click="StopEmergency" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Stop Emergency"></Button>
+
+        </Grid>
+        <Label x:Name="testLBL"></Label>
+        
+    </Grid>
+</Window>

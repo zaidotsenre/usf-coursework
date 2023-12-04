@@ -1,0 +1,16 @@
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\bin\Debug\AHPA 15 - Student Data.exe.config
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\bin\Debug\AHPA 15 - Student Data.exe
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\bin\Debug\AHPA 15 - Student Data.pdb
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.csproj.AssemblyReference.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\MainWindow.g.cs
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\App.g.cs
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data_MarkupCompile.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data_MarkupCompile.lref
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\MainWindow.baml
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.g.resources
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA_15___Student_Data.Properties.Resources.resources
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.csproj.GenerateResource.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.exe
+C:\Users\Ernesto\source\repos\COP 4931 - IT Software System Development\AHPA 15 - Student Data\obj\Debug\AHPA 15 - Student Data.pdb
