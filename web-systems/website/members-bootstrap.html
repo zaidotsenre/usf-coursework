@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Flying Six</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+</head>
+<body class="bg-dark text-light">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm">
+                <!-- Navigation Bar -->
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="index.html">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="members.html">Members</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="members-bootstrap.html">Members (Bootstrap Version)</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Additional Options
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item disabled" href="#" onclick="toggleCSS()">Switch styles</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm">
+                <!-- Carousel -->
+                <div id="carouselCaptions" class="carousel slide" data-bs-ride="true">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="3" class="active" aria-current="true" aria-label="Slide 4"></button>
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                        <button type="button" data-bs-target="#carouselCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/carousel/whos-who.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>Who's Who</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/carousel/black-maria.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>Black Maria</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/carousel/sasaki.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>Sasaki</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/carousel/ulti.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>Ulti</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/carousel/page-one.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>Page One</h5>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/carousel/x-drake.png" class="d-block mx-auto" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>X-Drake</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselCaptions" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselCaptions" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm">
+                <!-- Responsive Table -->
+                <table class="table table-hover table-dark">
+                    <tr>
+                        <th><h3>Name</h3></th>
+                        <th><h3>Devil Fruit</h3></th>
+                        <th><h3>Place of Origin</h3></th>
+                    </tr>
+                    <tr>
+                        <th><p>Who's-Who</p></th>
+                        <td><p>Neko Neko no Mi, Model: Saber Tiger</p></td>
+                        <td><p>North Blue</p></td>
+                    </tr>
+                    <tr>
+                        <th><p>Black Maria</p></th>
+                        <td><p>Kumo Kumo no Mi, Model: Rosamygale Grauvogeli</p></td>
+                        <td><p>Wano Country</p></td>
+                    </tr>
+                    <tr>
+                        <th><p>Sasaki</p></th>
+                        <td><p>Ryu Ryu no Mi, Model: Triceratops</p></td>
+                        <td><p>Grand Line</p></td>
+                    </tr>
+                    <tr>
+                        <th><p>Ulti</p></th>
+                        <td><p>Ryu Ryu no Mi, Model: Pachycephalosaurus</p></td>
+                        <td><p>Grand Line</p></td>
+                    </tr>
+                    <tr>
+                        <th><p>Page One</p></th>
+                        <td><p>Ryu Ryu no Mi, Model: Spinosaurus</p></td>
+                        <td><p>Grand Line</p></td>
+                    </tr>
+                    <tr>
+                        <th><p>X. Drake</p></th>
+                        <td><p>Ryu Ryu no Mi, Model: Allosaurus</p></td>
+                        <td><p>North Blue</p></td>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-sm">
+                <footer>
+                    <p class="text-center">Copyright &copy; Group 50 - 2023</p>
+                </footer>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.min.js" integrity="sha384-heAjqF+bCxXpCWLa6Zhcp4fu20XoNIA98ecBC1YkdXhszjoejr5y9Q77hIrv8R9i" crossorigin="anonymous"></script>
+
+</body>
+</html>
