@@ -10,4 +10,6 @@ Languages include:
   - C
   - C++
   - C#
+  - JavaScript
+  - HTML/CSS
   - R
